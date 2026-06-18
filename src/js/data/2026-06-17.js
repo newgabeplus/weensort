@@ -33,14 +33,14 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "You Fucked Up",
-    img: "fin.png",
+    img: "bih.jpg",
     opts: {
       album: [ "gws" ]
     }
   },
   {
     name: "The Stallion, Pt. 2",
-    img: "fin.png",
+    img: "bih.jpg",
     opts: {
       album: ["pod"]
     }
