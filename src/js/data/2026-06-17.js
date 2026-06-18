@@ -97,7 +97,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Bumblebee, Pt. 2",
-    img: "P4JZ2it.png",
+    img: "1.png",
     opts: {
       album: ["gws"],
       stage: [],
