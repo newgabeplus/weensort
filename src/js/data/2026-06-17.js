@@ -100,7 +100,7 @@ dataSet[dataSetVersion].characterData = [
     img: "1.png",
     opts: {
       album: ["gws"],
-      stage: [],
+      live: [],
       bonus: true
     }
   },
