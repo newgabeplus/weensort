@@ -23,14 +23,6 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Include live albums?",
-    key: "live",
-    tooltip: "Check these to include live albums. Only recommended for hardcore fans.",
-    checked: true,
-    sub: [ { name: "Paintin' the Town Brown", key: "pttb" }, { name: "Live in Toronto Canada", key: "toronto" }, { name: "Live at Stubb's", key: "stubbs" }, { name: "All Request Live", key: "arl" }, { name: "Live in Chicago", key: "chicago" }, { name: "At the Cat's Cradle", key: "cradle" }, { name: "GodWeenSatan: Live", key: "gwslive" }
-    ]
-  },
-  {
     name: "Remove bonus tracks",
     key: "bonus",
     tooltip: "Check this to remove all bonus tracks from album rereleases.",
@@ -43,56 +35,49 @@ dataSet[dataSetVersion].characterData = [
     name: "You Fucked Up",
     img: "1.png",
     opts: {
-      album: [ "gws" ],
-      live: []
+      album: [ "gws" ]
     }
   },
   {
     name: "Tick",
     img: "1.png",
     opts: {
-      album: [ "gws" ],
-      live: []
+      album: [ "gws" ]
     }
   },
   {
     name: "I'm in the Mood to Move",
     img: "1.png",
     opts: {
-      album: ["book", "EoSD", "StB", "HM"],
-      live: []
+      album: ["book", "EoSD", "StB", "HM"]
     }
   },
   {
     name: "I Gots a Weasel",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "Fat Lenny",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "Cold and Wet",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "Bumblebee",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
@@ -100,7 +85,6 @@ dataSet[dataSetVersion].characterData = [
     img: "1.png",
     opts: {
       album: ["gws"],
-      live: [],
       bonus: true
     }
   },
@@ -108,64 +92,56 @@ dataSet[dataSetVersion].characterData = [
     name: "Don't Laugh (I Love You)",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "Never Squeal",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "Up on the Hill",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "Wayne's Pet Youngin'",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "Nicole",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "Common Bitch",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "El Camino",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "Old Queen Cole",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
@@ -173,7 +149,6 @@ dataSet[dataSetVersion].characterData = [
     img: "1.png",
     opts: {
       album: ["gws"],
-      live: [],
       bonus: true
     }
   },
@@ -181,40 +156,35 @@ dataSet[dataSetVersion].characterData = [
     name: "Nan",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "Licking the Palm for Guava",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "Mushroom Festival in Hell",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "L.M.L.Y.P.",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "Papa Zit",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
@@ -222,7 +192,6 @@ dataSet[dataSetVersion].characterData = [
     img: "1.png",
     opts: {
       album: ["gws"],
-      live: [],
       bonus: true
     }
   },
@@ -230,232 +199,203 @@ dataSet[dataSetVersion].characterData = [
     name: "Old Man Thunder",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "Birthday Boy",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "Blackjack",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "Squelch the Weasel",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "Marble Tulip Juicy Tree",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "Puffy Cloud",
     img: "1.png",
     opts: {
-      album: ["gws"],
-      live: []
+      album: ["gws"]
     }
   },
   {
     name: "Strap on That Jammy Pac",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "Dr. Rock",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "Frank",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "Sorry Charlie",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "The Stallion, Pt. 1",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "Pollo Asado",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "Right to the Ways and the Rules of the World",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "Captain Fantasy",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "Demon Sweat",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "Molly",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "Can U Taste the Waste?",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "Don't Sweat It",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "Awesome Sound",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "Laura",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "Boing",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "Mononucleosis",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "Oh My Dear (Falling in Love)",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "Sketches of Winkle",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "Alone",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "Moving Away",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "She Fucks Me",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "Pork Roll Egg and Cheese",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   },
   {
     name: "The Stallion, Pt. 2",
     img: "2.png",
     opts: {
-      album: ["pod"],
-      live: []
+      album: ["pod"]
     }
   }
 ];
