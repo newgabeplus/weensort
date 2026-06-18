@@ -101,7 +101,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       album: ["gws"],
       stage: [],
-      bonus: true 
+      bonus: true
     }
   },
   {
@@ -109,6 +109,352 @@ dataSet[dataSetVersion].characterData = [
     img: "1.png",
     opts: {
       album: ["gws"],
+      live: []
+    }
+  },
+  {
+    name: "Never Squeal",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: []
+    }
+  },
+  {
+    name: "Up on the Hill",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: []
+    }
+  },
+  {
+    name: "Wayne's Pet Youngin'",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: []
+    }
+  },
+  {
+    name: "Nicole",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: []
+    }
+  },
+  {
+    name: "Common Bitch",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: []
+    }
+  },
+  {
+    name: "El Camino",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: []
+    }
+  },
+  {
+    name: "Old Queen Cole",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: []
+    }
+  },
+  {
+    name: "Stacey",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: [],
+      bonus: true
+    }
+  },
+  {
+    name: "Nan",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: []
+    }
+  },
+  {
+    name: "Licking the Palm for Guava",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: []
+    }
+  },
+  {
+    name: "Mushroom Festival in Hell",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: []
+    }
+  },
+  {
+    name: "L.M.L.Y.P.",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: []
+    }
+  },
+  {
+    name: "Papa Zit",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: []
+    }
+  },
+  {
+    name: "Hippy Smell",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: [],
+      bonus: true
+    }
+  },
+  {
+    name: "Old Man Thunder",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: []
+    }
+  },
+  {
+    name: "Birthday Boy",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: []
+    }
+  },
+  {
+    name: "Blackjack",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: []
+    }
+  },
+  {
+    name: "Squelch the Weasel",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: []
+    }
+  },
+  {
+    name: "Marble Tulip Juicy Tree",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: []
+    }
+  },
+  {
+    name: "Puffy Cloud",
+    img: "1.png",
+    opts: {
+      album: ["gws"],
+      live: []
+    }
+  },
+  {
+    name: "Strap on That Jammy Pac",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "Dr. Rock",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "Frank",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "Sorry Charlie",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "The Stallion, Pt. 1",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "Pollo Asado",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "Right to the Ways and the Rules of the World",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "Captain Fantasy",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "Demon Sweat",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "Molly",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "Can U Taste the Waste?",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "Don't Sweat It",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "Awesome Sound",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "Laura",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "Boing",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "Mononucleosis",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "Oh My Dear (Falling in Love)",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "Sketches of Winkle",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "Alone",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "Moving Away",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "She Fucks Me",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "Pork Roll Egg and Cheese",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
+      live: []
+    }
+  },
+  {
+    name: "The Stallion, Pt. 2",
+    img: "2.png",
+    opts: {
+      album: ["pod"],
       live: []
     }
   }
