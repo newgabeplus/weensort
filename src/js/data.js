@@ -20,4 +20,4 @@ let dataSetVersion = '2026-06-17';
 /**
  * Image root, will be appended to the start of every image URL.
  */
-const imageRoot = 'https://tohosort.frelia.my/src/assets/chars/';
+const imageRoot = 'https://github.com/newgabeplus/weensort/tree/main/src/assets/chars/';
