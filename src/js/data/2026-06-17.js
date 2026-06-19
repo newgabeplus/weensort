@@ -28,7 +28,7 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to restrict to certain demo tapes.",
     checked: false,
     sub: [
-      { name: "The Eindhoven EP", key: "eind" }
+      { name: "The Eindhoven EP", key: "eind" },
       { name: "The Mollusk Demos", key: "tmd" },
       { name: "Craters of the Sac", key: "sac" },
       { name: "The Long Beach Island Tape", key: "lbi" },
