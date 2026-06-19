@@ -1,1 +1,1 @@
-okay just as a disclaimer i dont actually know how to code anything and i just found and replaced a bunch of things </3 if it doesn't work yes it does. you're just not believing in me hard enough and should be ashamed of yourself
+if you like ween boy do i have the Github Pages link for you.
