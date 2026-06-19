@@ -22,7 +22,7 @@ dataSet[dataSetVersion].options = [
       { name: "La Cucaracha", key: "lacuc" }
     ]
   },
-    {
+  {
     name: "Filter by demos",
     key: "demo",
     tooltip: "Check this to restrict to certain demo tapes.",
@@ -1531,6 +1531,254 @@ dataSet[dataSetVersion].characterData = [
       album: ["lacuc"],
       demo: [],
       bonus: true
+    }
+  },
+  {
+    name: "Cover It with Gas and Set it On Fire",
+    img: "84cpC6KG/eind.png",
+    opts: {
+      album: [],
+      demo: ["eind"]
+    }
+  },
+  {
+    name: "Albino Sunburn Girl",
+    img: "84cpC6KG/eind.png",
+    opts: {
+      album: [],
+      demo: ["eind"]
+    }
+  },
+  {
+    name: "I Wuz Nuthin'",
+    img: "84cpC6KG/eind.png",
+    opts: {
+      album: [],
+      demo: ["eind"]
+    }
+  },
+  {
+    name: "Kim Smoltz",
+    img: "RkJ90Ydn/tmd.png",
+    opts: {
+      album: [],
+      demo: ["tmd"]
+    }
+  },
+  {
+    name: "Koko",
+    img: "RkJ90Ydn/tmd.png",
+    opts: {
+      album: [],
+      demo: ["tmd"]
+    }
+  },
+  {
+    name: "Vinnie the Eel",
+    img: "RkJ90Ydn/tmd.png",
+    opts: {
+      album: [],
+      demo: ["tmd"]
+    }
+  },
+  {
+    name: "All That's Gold Will Turn to Black",
+    img: "YTD9GZg5/sac.png",
+    opts: {
+      album: [],
+      demo: ["sac"]
+    }
+  },
+  {
+    name: "The Pawns of War",
+    img: "YTD9GZg5/sac.png",
+    opts: {
+      album: [],
+      demo: ["sac"]
+    }
+  },
+  {
+    name: "Put the Coke on My Dick",
+    img: "YTD9GZg5/sac.png",
+    opts: {
+      album: [],
+      demo: ["sac"]
+    }
+  },
+  {
+    name: "Makin' Love in the Gravy",
+    img: "YTD9GZg5/sac.png",
+    opts: {
+      album: [],
+      demo: ["sac"]
+    }
+  },
+  {
+    name: "The Stallion Pt. 5",
+    img: "YTD9GZg5/sac.png",
+    opts: {
+      album: [],
+      demo: ["sac"]
+    }
+  },
+  {
+    name: "Suckin' the Blood From the Devil's Dick",
+    img: "YTD9GZg5/sac.png",
+    opts: {
+      album: [],
+      demo: ["sac"]
+    }
+  },
+  {
+    name: "Put Your Boobs On",
+    img: "n8z8McGZ/lbi.png",
+    opts: {
+      album: [],
+      demo: ["lbi"]
+    }
+  },
+  {
+    name: "Long Beach Island",
+    img: "n8z8McGZ/lbi.png",
+    opts: {
+      album: [],
+      demo: ["lbi"]
+    }
+  },
+  {
+    name: "Wash Me Down",
+    img: "n8z8McGZ/lbi.png",
+    opts: {
+      album: [],
+      demo: ["lbi"]
+    }
+  },
+  {
+    name: "The Belvedine",
+    img: "n8z8McGZ/lbi.png",
+    opts: {
+      album: [],
+      demo: ["lbi"]
+    }
+  },
+  {
+    name: "Be My Wife",
+    img: "n8z8McGZ/lbi.png",
+    opts: {
+      album: [],
+      demo: ["lbi"]
+    }
+  },
+  {
+    name: "For So Long",
+    img: "n8z8McGZ/lbi.png",
+    opts: {
+      album: [],
+      demo: ["lbi"]
+    }
+  },
+  {
+    name: "Pot Luck",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: [],
+      demo: ["caesar"]
+    }
+  },
+  {
+    name: "Linda (The Sexy Dancer)",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: [],
+      demo: ["caesar"]
+    }
+  },
+  {
+    name: "That Man (From the Flatland)",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: [],
+      demo: ["caesar"]
+    }
+  },
+  {
+    name: "Oh My Little Country Cottage",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: [],
+      demo: ["caesar"]
+    }
+  },
+  {
+    name: "Ambrosia Parsley",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: [],
+      demo: ["caesar"]
+    }
+  },
+  {
+    name: "Love Come Down (9-11-01)",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: [],
+      demo: ["caesar"]
+    }
+  },
+  {
+    name: "Don't Let the Moon Catch You Cryin'",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: [],
+      demo: ["caesar"]
+    }
+  },
+  {
+    name: "You Can Go Shit in Your Hat (Matt)",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: [],
+      demo: ["caesar"]
+    }
+  },
+  {
+    name: "She Caught My Fancy",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: [],
+      demo: ["caesar"]
+    }
+  },
+  {
+    name: "Eulogy for David Anderson",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: [],
+      demo: ["caesar"]
+    }
+  },
+  {
+    name: "Things You Already Know",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: [],
+      demo: ["caesar"]
+    }
+  },
+   {
+    name: "Hello Johnny",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: [],
+      demo: ["caesar"]
+    }
+  },
+   {
+    name: "I'm Wide Open",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: [],
+      demo: ["caesar"]
     }
   }
 ];
