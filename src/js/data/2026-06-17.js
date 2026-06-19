@@ -1537,7 +1537,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Cover It with Gas and Set it On Fire",
     img: "84cpC6KG/eind.png",
     opts: {
-      album: [],
+      album: ["gws"],
       demo: ["eind"]
     }
   },
@@ -1545,7 +1545,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Albino Sunburn Girl",
     img: "84cpC6KG/eind.png",
     opts: {
-      album: [],
+      album: ["gws"],
       demo: ["eind"]
     }
   },
@@ -1553,7 +1553,7 @@ dataSet[dataSetVersion].characterData = [
     name: "I Wuz Nuthin'",
     img: "84cpC6KG/eind.png",
     opts: {
-      album: [],
+      album: ["gws"],
       demo: ["eind"]
     }
   },
@@ -1561,7 +1561,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Kim Smoltz",
     img: "RkJ90Ydn/tmd.png",
     opts: {
-      album: [],
+      album: ["mollusk"],
       demo: ["tmd"]
     }
   },
@@ -1569,7 +1569,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Koko",
     img: "RkJ90Ydn/tmd.png",
     opts: {
-      album: [],
+      album: ["mollusk"],
       demo: ["tmd"]
     }
   },
@@ -1577,7 +1577,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Vinnie the Eel",
     img: "RkJ90Ydn/tmd.png",
     opts: {
-      album: [],
+      album: ["mollusk"],
       demo: ["tmd"]
     }
   },
@@ -1585,7 +1585,7 @@ dataSet[dataSetVersion].characterData = [
     name: "All That's Gold Will Turn to Black",
     img: "YTD9GZg5/sac.png",
     opts: {
-      album: [],
+      album: ["mollusk"],
       demo: ["sac"]
     }
   },
@@ -1593,7 +1593,7 @@ dataSet[dataSetVersion].characterData = [
     name: "The Pawns of War",
     img: "YTD9GZg5/sac.png",
     opts: {
-      album: [],
+      album: ["mollusk"],
       demo: ["sac"]
     }
   },
@@ -1601,7 +1601,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Put the Coke on My Dick",
     img: "YTD9GZg5/sac.png",
     opts: {
-      album: [],
+      album: ["mollusk"],
       demo: ["sac"]
     }
   },
@@ -1609,7 +1609,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Makin' Love in the Gravy",
     img: "YTD9GZg5/sac.png",
     opts: {
-      album: [],
+      album: ["mollusk"],
       demo: ["sac"]
     }
   },
@@ -1617,7 +1617,7 @@ dataSet[dataSetVersion].characterData = [
     name: "The Stallion Pt. 5",
     img: "YTD9GZg5/sac.png",
     opts: {
-      album: [],
+      album: ["mollusk"],
       demo: ["sac"]
     }
   },
@@ -1625,7 +1625,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Suckin' the Blood From the Devil's Dick",
     img: "YTD9GZg5/sac.png",
     opts: {
-      album: [],
+      album: ["mollusk"],
       demo: ["sac"]
     }
   },
@@ -1633,7 +1633,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Put Your Boobs On",
     img: "n8z8McGZ/lbi.png",
     opts: {
-      album: [],
+      album: ["pepper"],
       demo: ["lbi"]
     }
   },
@@ -1641,7 +1641,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Long Beach Island",
     img: "n8z8McGZ/lbi.png",
     opts: {
-      album: [],
+      album: ["pepper"],
       demo: ["lbi"]
     }
   },
@@ -1649,7 +1649,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Wash Me Down",
     img: "n8z8McGZ/lbi.png",
     opts: {
-      album: [],
+      album: ["pepper"],
       demo: ["lbi"]
     }
   },
@@ -1657,7 +1657,7 @@ dataSet[dataSetVersion].characterData = [
     name: "The Belvedine",
     img: "n8z8McGZ/lbi.png",
     opts: {
-      album: [],
+      album: ["pepper"],
       demo: ["lbi"]
     }
   },
@@ -1665,7 +1665,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Be My Wife",
     img: "n8z8McGZ/lbi.png",
     opts: {
-      album: [],
+      album: ["pepper"],
       demo: ["lbi"]
     }
   },
@@ -1673,7 +1673,7 @@ dataSet[dataSetVersion].characterData = [
     name: "For So Long",
     img: "n8z8McGZ/lbi.png",
     opts: {
-      album: [],
+      album: ["pepper"],
       demo: ["lbi"]
     }
   },
@@ -1681,7 +1681,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Pot Luck",
     img: "gZsTnWFx/caesar.png",
     opts: {
-      album: [],
+      album: ["quebec"],
       demo: ["caesar"]
     }
   },
@@ -1689,7 +1689,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Linda (The Sexy Dancer)",
     img: "gZsTnWFx/caesar.png",
     opts: {
-      album: [],
+      album: ["quebec"],
       demo: ["caesar"]
     }
   },
@@ -1697,7 +1697,7 @@ dataSet[dataSetVersion].characterData = [
     name: "That Man (From the Flatland)",
     img: "gZsTnWFx/caesar.png",
     opts: {
-      album: [],
+      album: ["quebec"],
       demo: ["caesar"]
     }
   },
@@ -1705,7 +1705,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Oh My Little Country Cottage",
     img: "gZsTnWFx/caesar.png",
     opts: {
-      album: [],
+      album: ["quebec"],
       demo: ["caesar"]
     }
   },
@@ -1713,7 +1713,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Ambrosia Parsley",
     img: "gZsTnWFx/caesar.png",
     opts: {
-      album: [],
+      album: ["quebec"],
       demo: ["caesar"]
     }
   },
@@ -1721,7 +1721,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Love Come Down (9-11-01)",
     img: "gZsTnWFx/caesar.png",
     opts: {
-      album: [],
+      album: ["quebec"],
       demo: ["caesar"]
     }
   },
@@ -1729,7 +1729,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Don't Let the Moon Catch You Cryin'",
     img: "gZsTnWFx/caesar.png",
     opts: {
-      album: [],
+      album: ["quebec"],
       demo: ["caesar"]
     }
   },
@@ -1737,7 +1737,7 @@ dataSet[dataSetVersion].characterData = [
     name: "You Can Go Shit in Your Hat (Matt)",
     img: "gZsTnWFx/caesar.png",
     opts: {
-      album: [],
+      album: ["quebec"],
       demo: ["caesar"]
     }
   },
@@ -1745,7 +1745,7 @@ dataSet[dataSetVersion].characterData = [
     name: "She Caught My Fancy",
     img: "gZsTnWFx/caesar.png",
     opts: {
-      album: [],
+      album: ["quebec"],
       demo: ["caesar"]
     }
   },
@@ -1753,7 +1753,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Eulogy for David Anderson",
     img: "gZsTnWFx/caesar.png",
     opts: {
-      album: [],
+      album: ["quebec"],
       demo: ["caesar"]
     }
   },
@@ -1761,7 +1761,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Things You Already Know",
     img: "gZsTnWFx/caesar.png",
     opts: {
-      album: [],
+      album: ["quebec"],
       demo: ["caesar"]
     }
   },
@@ -1769,7 +1769,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Hello Johnny",
     img: "gZsTnWFx/caesar.png",
     opts: {
-      album: [],
+      album: ["quebec"],
       demo: ["caesar"]
     }
   },
@@ -1777,7 +1777,7 @@ dataSet[dataSetVersion].characterData = [
     name: "I'm Wide Open",
     img: "gZsTnWFx/caesar.png",
     opts: {
-      album: [],
+      album: ["quebec"],
       demo: ["caesar"]
     }
   }
