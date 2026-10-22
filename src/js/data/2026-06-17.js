@@ -19,7 +19,8 @@ dataSet[dataSetVersion].options = [
       { name: "Quebec", key: "quebec", checked: true },
       { name: "Shinola, Vol. 1", key: "shinola", checked: true },
       { name: "The Friends EP", key: "friends", checked: true },
-      { name: "La Cucaracha", key: "lacuc", checked: true }
+      { name: "La Cucaracha", key: "lacuc", checked: true },
+      { name: "B-sides", key: "bsides", checked: false }
     ]
   }
 ];
@@ -1185,6 +1186,125 @@ dataSet[dataSetVersion].characterData = [
     img: "rfXSh9d8/lacuc.png",
     opts: {
       album: ["lacuc"]
+    }
+  },
+      {
+    name: "Ode to Rene",
+    img: "hQRTSX7/boognish.png",
+    opts: {
+      album: ["bsides"]
+    }
+  },
+     {
+    name: "I Smoke Some Grass (Really Really High)",
+    img: "hQRTSX7/boognish.png",
+    opts: {
+      album: ["bsides"]
+    }
+  },
+     {
+    name: "Mango Woman",
+    img: "hQRTSX7/boognish.png",
+    opts: {
+      album: ["bsides"]
+    }
+  },
+     {
+    name: "There's a Pig",
+    img: "hQRTSX7/boognish.png",
+    opts: {
+      album: ["bsides"]
+    }
+  },
+     {
+    name: "Vallejo",
+    img: "hQRTSX7/boognish.png",
+    opts: {
+      album: ["bsides"]
+    }
+  },
+    {
+    name: "Now I'm Freaking Out",
+    img: "hQRTSX7/boognish.png",
+    opts: {
+      album: ["bsides"]
+    }
+  },
+    {
+    name: "Bakersfield",
+    img: "hQRTSX7/boognish.png",
+    opts: {
+      album: ["bsides"]
+    }
+  },
+     {
+    name: "Sweet Texas Fire",
+    img: "hQRTSX7/boognish.png",
+    opts: {
+      album: ["bsides"]
+    }
+  },
+      {
+    name: "So Long Jerry",
+    img: "hQRTSX7/boognish.png",
+    opts: {
+      album: ["bsides"]
+    }
+  },
+    {
+    name: "Who Dat?",
+    img: "hQRTSX7/boognish.png",
+    opts: {
+      album: ["bsides"]
+    }
+  },
+     {
+    name: "Ode to Rene",
+    img: "hQRTSX7/boognish.png",
+    opts: {
+      album: ["bsides"]
+    }
+  },
+    {
+    name: "Cornbread Red",
+    img: "hQRTSX7/boognish.png",
+    opts: {
+      album: ["bsides"]
+    }
+  },
+    {
+    name: "Mountains and Buffalo",
+    img: "hQRTSX7/boognish.png",
+    opts: {
+      album: ["bsides"]
+    }
+  },
+    {
+    name: "Skycruiser",
+    img: "hQRTSX7/boognish.png",
+    opts: {
+      album: ["bsides"]
+    }
+  },
+     {
+    name: "Cover It with Gas and Set It on Fire",
+    img: "hQRTSX7/boognish.png",
+    opts: {
+      album: ["bsides"]
+    }
+  },
+    {
+    name: "I'm Fat",
+    img: "hQRTSX7/boognish.png",
+    opts: {
+      album: ["bsides"]
+    }
+  },
+     {
+    name: "Dirty Money",
+    img: "hQRTSX7/boognish.png",
+    opts: {
+      album: ["bsides"]
     }
   }
 ];
