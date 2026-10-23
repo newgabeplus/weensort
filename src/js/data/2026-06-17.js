@@ -20,7 +20,11 @@ dataSet[dataSetVersion].options = [
       { name: "Shinola, Vol. 1", key: "shinola", checked: true },
       { name: "The Friends EP", key: "friends", checked: true },
       { name: "La Cucaracha", key: "lacuc", checked: true },
-      { name: "B-sides", key: "bsides", checked: false }
+      { name: "B-sides", key: "bsides", checked: false },
+      { name: "Craters of the Sac", key: "sac", checked: false },
+      { name: "The Mollusk Sessions", key: "tms", checked: false },
+      { name: "The Eindhoven EP", key: "eind", checked: false },
+      { name: "The Caesar Demos", key: "caesar", checked: false }
     ]
   }
 ];
@@ -1305,6 +1309,447 @@ dataSet[dataSetVersion].characterData = [
     img: "hQRTSX7/boognish.png",
     opts: {
       album: ["bsides"]
+    }
+  },
+  {
+    name: "Albino Sunburn Girl",
+    img: "84cpC6KG/eind.png",
+    opts: {
+      album: ["eind"]
+    }
+  },
+  {
+    name: "Push the Little Daisies (and Make 'M Come Up)",
+    img: "84cpC6KG/eind.png",
+    opts: {
+      album: ["eind"]
+    }
+  },
+  {
+    name: "I Was Nothing",
+    img: "84cpC6KG/eind.png",
+    opts: {
+      album: ["eind"]
+    }
+  },
+  {
+    name: "All That's Gold Will Turn to Black",
+    img: "YTD9GZg5/sac.png",
+    opts: {
+      album: ["sac"]
+    }
+  },
+  {
+    name: "The Pawns of War",
+    img: "YTD9GZg5/sac.png",
+    opts: {
+      album: ["sac"]
+    }
+  },
+  {
+    name: "Big Fat Fuck",
+    img: "YTD9GZg5/sac.png",
+    opts: {
+      album: ["sac"]
+    }
+  },
+  {
+    name: "Put the Coke on My Dick",
+    img: "YTD9GZg5/sac.png",
+    opts: {
+      album: ["sac"]
+    }
+  },
+  {
+    name: "Makin' Love in the Gravy",
+    img: "YTD9GZg5/sac.png",
+    opts: {
+      album: ["sac"]
+    }
+  },
+  {
+    name: "How High Can You Fly",
+    img: "YTD9GZg5/sac.png",
+    opts: {
+      album: ["sac"]
+    }
+  },
+  {
+    name: "The Stallion, Pt. 5",
+    img: "YTD9GZg5/sac.png",
+    opts: {
+      album: ["sac"]
+    }
+  },
+  {
+    name: "Suckin' the Blood From the Devil's Dick",
+    img: "YTD9GZg5/sac.png",
+    opts: {
+      album: ["sac"]
+    }
+  },
+  {
+    name: "Monique the Freak",
+    img: "YTD9GZg5/sac.png",
+    opts: {
+      album: ["sac"]
+    }
+  },
+  {
+    name: "Mutilated Lips",
+    img: "RkJ90Ydn/tms.png",
+    opts: {
+      album: ["tms"]
+    }
+  },
+  {
+    name: "Cold Blows the Wind",
+    img: "RkJ90Ydn/tms.png",
+    opts: {
+      album: ["tms"]
+    }
+  },
+  {
+    name: "The Mollusk",
+    img: "RkJ90Ydn/tms.png",
+    opts: {
+      album: ["tms"]
+    }
+  },
+  {
+    name: "Waving My Dick in the Wind",
+    img: "RkJ90Ydn/tms.png",
+    opts: {
+      album: ["tms"]
+    }
+  },
+  {
+    name: "Kim Smoltz",
+    img: "RkJ90Ydn/tms.png",
+    opts: {
+      album: ["tms"]
+    }
+  },
+  {
+    name: "Ocean Man",
+    img: "RkJ90Ydn/tms.png",
+    opts: {
+      album: ["tms"]
+    }
+  },
+  {
+    name: "Koko",
+    img: "RkJ90Ydn/tms.png",
+    opts: {
+      album: ["tms"]
+    }
+  },
+  {
+    name: "Did You See Me",
+    img: "RkJ90Ydn/tms.png",
+    opts: {
+      album: ["tms"]
+    }
+  },
+  {
+    name: "Flutes of the Chi",
+    img: "RkJ90Ydn/tms.png",
+    opts: {
+      album: ["tms"]
+    }
+  },
+  {
+    name: "She Wanted to Leave",
+    img: "RkJ90Ydn/tms.png",
+    opts: {
+      album: ["tms"]
+    }
+  },
+  {
+    name: "Vinnie the Eel",
+    img: "RkJ90Ydn/tms.png",
+    opts: {
+      album: ["tms"]
+    }
+  },
+  {
+    name: "Chocolate Town",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Pot Luck",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Ooh Vah Lah",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "So Many People in the Neighborhood",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Linda (The Sexy Dancer)",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "That Man (From the Flatland)",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Happy Colored Marbles",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Hey There Fancypants",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "If You Could Save Yourself (You'd Save Us All)",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "It's Gonna Be a Long Night",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Oh My Little Country Cottage",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Among His Tribe",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Transdermal Celebration",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Captain",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Tried and True",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "I Fell in Love Today",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "I Don't Want It",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Ambrosia Parsley",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Zoloft",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Love Come Down (9-11-01)",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Alcan Road",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Don't Let the Moon Catch You Cryin'",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "You Can Go Shit in Your Hat (Matt)",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Someday",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "She Caught My Fancy",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Eulogy for David Anderson",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Things You Already Know",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Hello Johnny",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "I'm Wide Open",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "I'm Wide Open",
+    img: "gZsTnWFx/caesar.png",
+    opts: {
+      album: ["caesar"]
+    }
+  },
+  {
+    name: "Bananas and Blow",
+    img: "n8z8McGZ/lbi.png",
+    opts: {
+      album: ["lbi"]
+    }
+  },
+  {
+    name: "Put Your Boobs On",
+    img: "n8z8McGZ/lbi.png",
+    opts: {
+      album: ["lbi"]
+    }
+  },
+  {
+    name: "Long Beach Island",
+    img: "n8z8McGZ/lbi.png",
+    opts: {
+      album: ["lbi"]
+    }
+  },
+  {
+    name: "Wash Me Down",
+    img: "n8z8McGZ/lbi.png",
+    opts: {
+      album: ["lbi"]
+    }
+  },
+  {
+    name: "Back to Basom",
+    img: "n8z8McGZ/lbi.png",
+    opts: {
+      album: ["lbi"]
+    }
+  },
+  {
+    name: "The Grobe",
+    img: "n8z8McGZ/lbi.png",
+    opts: {
+      album: ["lbi"]
+    }
+  },
+  {
+    name: "Baroque Jam 3",
+    img: "n8z8McGZ/lbi.png",
+    opts: {
+      album: ["lbi"]
+    }
+  },
+  {
+    name: "The Belvodine",
+    img: "n8z8McGZ/lbi.png",
+    opts: {
+      album: ["lbi"]
+    }
+  },
+  {
+    name: "Be My Wife",
+    img: "n8z8McGZ/lbi.png",
+    opts: {
+      album: ["lbi"]
+    }
+  },
+  {
+    name: "For So Long",
+    img: "n8z8McGZ/lbi.png",
+    opts: {
+      album: ["lbi"]
     }
   }
 ];
